@@ -1,0 +1,4 @@
+Word2Vec is a word embedding method.
+It represents words as dense numerical vectors.
+Similar words usually have similar vector representations.
+CBOW predicts a target word from context, while Skip-Gram predicts context words from a target word.

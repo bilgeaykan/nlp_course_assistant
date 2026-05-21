@@ -1,0 +1,4 @@
+Retrieval-Augmented Generation is a method that combines retrieval and answer generation.
+RAG first retrieves relevant information from documents.
+Then it uses the retrieved context to create a short answer.
+Embeddings and cosine similarity are commonly used in retrieval systems.

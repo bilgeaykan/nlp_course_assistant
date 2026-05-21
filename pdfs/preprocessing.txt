@@ -1,0 +1,4 @@
+Text preprocessing prepares raw text for NLP tasks.
+Common preprocessing steps include lowercasing, punctuation removal, tokenization, and stopword removal.
+Preprocessing reduces noise and makes text easier to analyze.
+Cleaned text is often used before feature extraction and classification.

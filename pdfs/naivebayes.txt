@@ -1,0 +1,4 @@
+Naive Bayes is a probabilistic classification algorithm.
+It uses Bayes theorem to predict the most likely class.
+Multinomial Naive Bayes is commonly used for text classification.
+It works well with word count and TF-IDF based text features.

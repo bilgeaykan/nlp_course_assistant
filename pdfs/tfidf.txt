@@ -1,0 +1,5 @@
+TF-IDF is used to measure the importance of words in documents.
+TF means term frequency.
+IDF means inverse document frequency.
+TF-IDF converts text into numerical features.
+It is commonly used in text classification and information retrieval.

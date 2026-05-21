@@ -1,0 +1,4 @@
+BERT is a transformer-based NLP model.
+BERT uses Masked Language Modeling during pretraining.
+Masked Language Modeling hides some tokens and asks the model to predict them using context.
+BERT can understand words based on both left and right context.

@@ -1,0 +1,121 @@
+question,category
+What is text preprocessing,Text Preprocessing
+Why do we preprocess text before analysis,Text Preprocessing
+What does lowercasing do in NLP,Text Preprocessing
+Why is punctuation removed from text,Text Preprocessing
+What is tokenization,Text Preprocessing
+How does tokenization help text processing,Text Preprocessing
+What is stopword removal,Text Preprocessing
+Why do we remove stopwords,Text Preprocessing
+How can raw text be cleaned,Text Preprocessing
+What happens in a basic preprocessing pipeline,Text Preprocessing
+Why is text normalization useful,Text Preprocessing
+How do we prepare text before classification,Text Preprocessing
+What is the purpose of cleaning text data,Text Preprocessing
+Can preprocessing reduce noise in a sentence,Text Preprocessing
+Which steps are commonly used before feature extraction,Text Preprocessing
+What is an n-gram,N-Gram
+What is a unigram,N-Gram
+What is a bigram,N-Gram
+What is a trigram,N-Gram
+How are n-grams created from text,N-Gram
+Why are n-grams useful in NLP,N-Gram
+What does the value of n mean in n-grams,N-Gram
+How does a bigram represent two words,N-Gram
+Why can trigrams capture more context than unigrams,N-Gram
+Give an example of a word bigram,N-Gram
+How are neighboring tokens grouped in n-grams,N-Gram
+What is the difference between unigram and trigram,N-Gram
+Can n-grams be used as text features,N-Gram
+Why should we compare different n-gram sizes,N-Gram
+How do n-grams preserve local word order,N-Gram
+What is TF-IDF,TF-IDF
+What does TF-IDF stand for,TF-IDF
+What is term frequency,TF-IDF
+What is inverse document frequency,TF-IDF
+How does TF-IDF measure word importance,TF-IDF
+Why is TF-IDF used in text classification,TF-IDF
+What does a high TF-IDF score indicate,TF-IDF
+How does IDF reduce the importance of common words,TF-IDF
+Why are rare but informative words valuable in TF-IDF,TF-IDF
+How does TF-IDF convert text into numerical features,TF-IDF
+What kind of representation does TF-IDF produce,TF-IDF
+How is document frequency related to TF-IDF,TF-IDF
+Why is TF-IDF useful for document comparison,TF-IDF
+What information is stored in a TF-IDF matrix,TF-IDF
+How does TF-IDF differ from raw word counts,TF-IDF
+What is Naive Bayes,Naive Bayes
+Why is Naive Bayes called naive,Naive Bayes
+How does Naive Bayes classify text,Naive Bayes
+Why is Naive Bayes common in NLP tasks,Naive Bayes
+What assumption does Naive Bayes make about features,Naive Bayes
+How does Bayes theorem support classification,Naive Bayes
+Why is Naive Bayes suitable for text categorization,Naive Bayes
+What is conditional independence in Naive Bayes,Naive Bayes
+How can Naive Bayes be used for spam filtering,Naive Bayes
+Why does Naive Bayes work well with word features,Naive Bayes
+What does a Naive Bayes classifier predict,Naive Bayes
+How does Naive Bayes choose a class label,Naive Bayes
+Why is Multinomial Naive Bayes used with text,Naive Bayes
+Is Naive Bayes a probabilistic classifier,Naive Bayes
+What makes Naive Bayes simple and fast,Naive Bayes
+What is Word2Vec,Word2Vec
+What is a word embedding,Word2Vec
+How does Word2Vec represent words,Word2Vec
+What is CBOW in Word2Vec,Word2Vec
+What is Skip-Gram in Word2Vec,Word2Vec
+How is CBOW different from Skip-Gram,Word2Vec
+Why are dense word vectors useful,Word2Vec
+How does Word2Vec capture semantic similarity,Word2Vec
+What kind of context does Word2Vec learn from,Word2Vec
+Why can similar words have similar vectors,Word2Vec
+How does Word2Vec differ from one-hot encoding,Word2Vec
+Which Word2Vec model predicts a target word from context,Word2Vec
+Which Word2Vec model predicts context words from a target word,Word2Vec
+What is the meaning of king minus man plus woman in embeddings,Word2Vec
+Why are word embeddings helpful in NLP,Word2Vec
+What is BERT,BERT
+What does BERT stand for,BERT
+Why is BERT bidirectional,BERT
+What is Masked Language Modeling,BERT
+What is Next Sentence Prediction,BERT
+How does BERT use context from both sides,BERT
+Why are some tokens hidden during BERT pretraining,BERT
+What does MLM teach the BERT model,BERT
+What are CLS and SEP tokens in BERT,BERT
+How does BERT create contextual representations,BERT
+Why does BERT use transformer encoders,BERT
+How are tokens converted into IDs for BERT,BERT
+What makes BERT different from directional language models,BERT
+Why is BERT useful for understanding sentence meaning,BERT
+Which pretraining tasks are associated with BERT,BERT
+What is Byte Pair Encoding,BPE
+What does BPE stand for,BPE
+How does BPE work,BPE
+Why is BPE used in transformer tokenization,BPE
+What problem does BPE solve,BPE
+How does BPE handle unknown words,BPE
+What are subword units in BPE,BPE
+Why are frequent character pairs merged in BPE,BPE
+How does BPE build a vocabulary,BPE
+Why does BPE reduce out-of-vocabulary problems,BPE
+What happens in one BPE merge step,BPE
+How does BPE differ from simple word tokenization,BPE
+Why is BPE shorter than character tokenization,BPE
+How can rare words be represented with BPE,BPE
+What is subword tokenization in BPE,BPE
+What is RAG,RAG
+What does Retrieval Augmented Generation mean,RAG
+Why is RAG used,RAG
+How does retrieval work in a RAG system,RAG
+What is chunking in RAG,RAG
+Why are documents divided into chunks,RAG
+How do embeddings support retrieval in RAG,RAG
+What does cosine similarity do in a retrieval system,RAG
+How can RAG reduce hallucination,RAG
+What is retrieved context in RAG,RAG
+How does RAG answer questions from lecture notes,RAG
+Why is external knowledge useful in RAG,RAG
+What are the basic stages of a RAG pipeline,RAG
+How are relevant text chunks selected in RAG,RAG
+Why does RAG ground answers in source documents,RAG

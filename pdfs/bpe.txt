@@ -1,0 +1,4 @@
+Byte Pair Encoding is a subword tokenization method.
+BPE builds vocabulary by repeatedly merging frequent character pairs.
+It helps handle rare and unknown words.
+BPE is commonly used in transformer-based NLP models.

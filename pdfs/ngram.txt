@@ -1,0 +1,4 @@
+N-grams are sequences of words or tokens used in NLP.
+A unigram contains one token, a bigram contains two tokens, and a trigram contains three tokens.
+N-grams help preserve local word order in text.
+They can be used as features in text classification and language modeling.
